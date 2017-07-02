@@ -1,0 +1,6 @@
+[package]
+name = "rust-book-slices"
+version = "0.1.0"
+authors = ["Vaclav Stebra <vstebra@gmail.com>"]
+
+[dependencies]
